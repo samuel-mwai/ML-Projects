@@ -148,7 +148,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn joblib jupyter
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Financess.git
+   git clone https://github.com/samuel-mwai/Financess.git
    ```
 
 2. Navigate to the project directory:
@@ -198,7 +198,7 @@ Potential next steps include:
 
 Data Science & Analytics | Machine Learning | Data Analysis | Data Visualization
 
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/samuel-mwai)
+GitHub:(https://github.com/samuel-mwai)
 
 ## 📄 License
 
